@@ -118,4 +118,4 @@ MIT License. See the `LICENSE` file.
 
 ## Author
 
-FirstName LastName
+Kurt Sebastian Bautista
